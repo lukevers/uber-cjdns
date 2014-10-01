@@ -8,4 +8,4 @@ Edit `index.coffee` and change `ipv6` to the address that you are testing your p
 
 ## Screenshot
 
-![uber-cjdns](http://i.imgur.com/yMk4NHx.png)
+![uber-cjdns](./screenshot.png)
